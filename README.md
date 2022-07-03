@@ -1,9 +1,12 @@
 # Programme de la formation "Java Unit Testing Essentials"
 ## Introduction
-- Qu'est-ce que le test ? Pourquoi tester ?
+- Qu'est-ce que le test ? 
+- Pourquoi tester ?
 - Les différents niveaux de tests
 ## Le Test Unitaire
-- Définition Intérêts Principes
+- Définition 
+- Intérêts 
+- Principes
 ## Le framework JUnit
 - Présentation
 - JUnit 4
